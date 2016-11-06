@@ -1,3 +1,14 @@
+![think Smiley](http://pix.iemoji.com/images/emoji/apple/ios-9/256/thinking-face.png)
+About the course, of course!
+==============================================
+Kurser känns lite som magi. Du skriver en rad här och en där, så poppar massa saker upp.
+Det känns lite som fusk! Om du bygger en sida såhär så känns det inte som du kodar på riktigt.
+som det nämdes på lektionen förstår jag att det är ett smidigt sätt att lägga till ny "content"
+såsom ett nytt inlägg, eller ny flik/sida. Sedan hur du gör en hemsida från grunden med html/PHP
+tillsammans med detta verkar svårt, men det kommer senare!
+
+[Github Me-sida](https://github.com/daBack/anaxFlat)
+
 About this site
 ==============================================
 
@@ -7,7 +18,7 @@ The primary focus of this site is to:
 
 The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se), edited by Oscar Bäck.
 
 About me
 ==============================================
