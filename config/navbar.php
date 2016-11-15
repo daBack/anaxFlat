@@ -30,14 +30,14 @@ return [
             "AnotherOne" => [
                 "text"  => t("AnotherOne"),
                 "url"   => $this->di->get("url")->create("AnotherOne"),
-                "title" => t("enTitel")
+                "title" => t("Just a test!")
             ],
         ],
     ],
 
 
 
-/*
+
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -61,9 +61,15 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+            
+            "AnotherOne" => [
+                "text"  => t("AnotherOne"),
+                "url"   => $this->di->get("url")->create("AnotherOne"),
+                "title" => t("Just a test!")
+            ],
         ],
     ],
-*/
+
 
 
     /**
