@@ -27,10 +27,27 @@ return [
                 "title" => t("About this website")
             ],
 
-            "AnotherOne" => [
-                "text"  => t("AnotherOne"),
-                "url"   => $this->di->get("url")->create("AnotherOne"),
+            "test" => [
+                "text"  => t("test"),
+                "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Just a test!")
+            ],
+
+            "typography" => [
+                "text"  => t("typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typographic")
+            ],
+
+            "analysis" => [
+                "text"  => t("analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analysis")
+            ],
+            "grid" => [
+                "text"  => t("grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("grid")
             ],
         ],
     ],
@@ -61,7 +78,7 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
-            
+
             "AnotherOne" => [
                 "text"  => t("AnotherOne"),
                 "url"   => $this->di->get("url")->create("AnotherOne"),
