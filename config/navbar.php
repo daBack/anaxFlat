@@ -27,12 +27,6 @@ return [
                 "title" => t("About this website")
             ],
 
-            "test" => [
-                "text"  => t("test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Just a test!")
-            ],
-
             "typography" => [
                 "text"  => t("typography"),
                 "url"   => $this->di->get("url")->create("typography"),
@@ -48,6 +42,11 @@ return [
                 "text"  => t("grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("grid")
+            ],
+            "theme" => [
+                "text"  => t("theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme")
             ],
         ],
     ],
