@@ -1,3 +1,5 @@
+[theme-selector](theme-selector).
+
 ##Base
 I basen valde jag att ta bort den stylen jag hade i default. Blocken ligger fortfarande där det gör men färg och design har tagits bort och gjord enkel.
 

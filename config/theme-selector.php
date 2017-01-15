@@ -27,6 +27,16 @@ return [
             ]
         ],
 
+        "separator01" => "------------------------------------------------",
+
+        "vgrid"      => [
+            "title"      => "vertikalt grid",
+            "class"      => "",
+            "stylesheets" => [
+                "css/vgrid.min.css"
+            ]
+        ],
+
         "separator1" => "------------------------------------------------",
 
         "light"     =>  [
@@ -58,7 +68,7 @@ return [
         "typography" => [
             "title"      => "A theme where the typography really stands out",
             "class"      => "light",
-            "stylesheets" => ["css/typography.min.css"]
+            "stylesheets" => ["css/typography-theme.min.css"]
         ],
 
         "separator2" => "------------------------------------------------",

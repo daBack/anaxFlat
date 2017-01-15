@@ -48,6 +48,16 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("theme")
             ],
+            "images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("images")
+            ],
+            "blog" => [
+                "text"  => t("blog"),
+                "url"   => $this->di->get("url")->create("blog"),
+                "title" => t("blog")
+            ],
         ],
     ],
 
