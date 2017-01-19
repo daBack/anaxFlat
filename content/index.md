@@ -17,5 +17,3 @@ Vad gjorde glasmästaren när han inte hade något glas?
 Han drack direkt ur flaskan.. HAHAHAHAHAHAH
 
 ![Bild på mig](image/bilda.jpg&aro)
-
-![test](cimage/imgd.php?src=dbwebbisar.jpg&w=500)

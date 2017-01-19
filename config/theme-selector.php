@@ -78,5 +78,43 @@ return [
             "class"      => "fun",
             "stylesheets" => ["css/fun.min.css"]
         ],
+
+        "separator01" => "------------------------------------------------",
+
+        "pattern1" => [
+            "title"      => "A theme that uses the design pattern, color",
+            "class"      => "color design patter",
+            "stylesheets" => ["css/pattern1.min.css"]
+        ],
+
+        "pattern2" => [
+            "title"      => "A theme that uses the design pattern framing",
+            "class"      => "a framing design patter",
+            "stylesheets" => ["css/pattern2.min.css"]
+        ],
+
+        "pattern3" => [
+            "title"      => "A theme that uses the texture design pattern",
+            "class"      => "texture design patter",
+            "stylesheets" => ["css/pattern3.min.css"]
+        ],
+
+        "compTheme1" => [
+            "title"      => "A theme that is compilated by different terms",
+            "class"      => "texture design patter",
+            "stylesheets" => ["css/compTheme1.min.css"]
+        ],
+
+        "compTheme2" => [
+            "title"      => "A theme that is compilated by different terms",
+            "class"      => "texture design patter",
+            "stylesheets" => ["css/compTheme2.min.css"]
+        ],
+
+        "compTheme3" => [
+            "title"      => "A theme that is compilated by different terms",
+            "class"      => "texture design patter",
+            "stylesheets" => ["css/compTheme3.min.css"]
+        ],
     ]
 ];
